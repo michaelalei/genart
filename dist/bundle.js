@@ -1,0 +1,1 @@
+console.log(fxhash),console.log(fxrand()),window.$fxhashFeatures={"BackgroundColor 背景色:":getBackColor(),"Flower Num 花朵数量:":getFlowerNum(),"Pallete NO 调色盘:":getPalleteStyle(),"Canvas NO  画布色调:":getCanvasStyle()};
